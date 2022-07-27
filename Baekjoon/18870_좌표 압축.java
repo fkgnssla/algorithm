@@ -29,6 +29,6 @@ public class Main {
             sb.append(map.get(input.get(i)) + " ");
         }
         bw.write(sb+""); bw.flush();
-        
+       
     }
 }
